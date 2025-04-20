@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="figs/banner.jpg" alt="AI and Finance Banner" width="100%" />
+  <img src="figs/EASY_CODER.png" alt="AI and Finance Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Seyed Ali Hosseini</h1>

@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/figs/banner.jpg" alt="AI and Finance Banner" width="100%" />
+  <img src="figs/banner.jpg" alt="AI and Finance Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Seyed Ali Hosseini</h1>

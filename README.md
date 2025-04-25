@@ -1,12 +1,12 @@
 <!-- Banner Image -->
 <p align="center">
-  <!-- set a fixed pixel width, auto-adjusting the height -->
-  <img src="figs/banner_main.png" 
-       alt="AI and Finance Banner" 
-       width="300px" 
-       style="height: auto;" />
+  <img
+    src="figs/banner_main.png"
+    alt="AI and Finance Banner"
+    height="150px"
+    style="width: auto; max-width: 100%;"
+  />
 </p>
-
 ### 🚀 About Me
 
 As a dedicated PhD candidate at [Politecnico di Milano](https://www.polimi.it/), specializing in **Reinforcement Learning** and **Artificial Intelligence in Trading**, I am passionate about pushing the boundaries of financial technology.

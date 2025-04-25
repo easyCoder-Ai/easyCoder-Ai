@@ -1,12 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="figs/banner_main.png" alt="AI and Finance Banner" width="100%" />
+  <!-- set a fixed pixel width, auto-adjusting the height -->
+  <img src="figs/banner_main.png" 
+       alt="AI and Finance Banner" 
+       width="800px" 
+       style="height: auto;" />
 </p>
-
-<h1 align="center">Hi there 👋, I'm Seyed Ali Hosseini</h1>
-<h3 align="center">PhD Candidate | AI in Finance | Reinforcement Learning Researcher</h3>
-
----
 
 ### 🚀 About Me
 

@@ -3,7 +3,7 @@
   <!-- set a fixed pixel width, auto-adjusting the height -->
   <img src="figs/banner_main.png" 
        alt="AI and Finance Banner" 
-       width="800px" 
+       width="300px" 
        style="height: auto;" />
 </p>
 

@@ -29,19 +29,18 @@ As a dedicated PhD candidate at [Politecnico di Milano](https://www.polimi.it/),
 
 ### 🌟 Featured Projects
 
-> *(Coming soon - you can add your favorite repositories here)*  
-> Example:
-> - 🔗 [RL-Trading-Agent](https://github.com/your-username/RL-Trading-Agent) – A reinforcement learning agent for crypto trading  
-> - 🔗 [FinAI-Lab](https://github.com/your-username/FinAI-Lab) – Research framework for financial deep learning models
+
+<!-- > - 🔗 [RL-Trading-Agent](https://github.com/your-username/RL-Trading-Agent) – A reinforcement learning agent for crypto trading  
+> - 🔗 [FinAI-Lab](https://github.com/your-username/FinAI-Lab) – Research framework for financial deep learning models -->
 
 ---
 
 ### 📫 Let's Connect!
 
 <!-- Replace `your-link` with actual links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-green?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alihosseini8887/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-green?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Seyed-Ali-Hosseini-23)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seyedali1.hosseini@polimi.it)
 
 ---
 
@@ -52,13 +51,13 @@ As a dedicated PhD candidate at [Politecnico di Milano](https://www.polimi.it/),
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 

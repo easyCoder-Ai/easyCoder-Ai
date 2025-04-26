@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="figs/EASY_CODER.png" 
+    src="figs/Presentation1.png" 
     alt="AI and Finance Banner" 
     width="980px" 
     style="height:200px; width:auto; max-width:100%;" 

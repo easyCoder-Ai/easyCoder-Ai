@@ -7,57 +7,157 @@
   />
 </p>
 
-### 🚀 About Me
+# 👋 Hi, I'm Seyed Ali Hosseini
 
-As a dedicated PhD candidate at [Politecnico di Milano](https://www.polimi.it/), specializing in **Reinforcement Learning** and **Artificial Intelligence in Trading**, I am passionate about pushing the boundaries of financial technology.
+### 🚀 AI Engineer | Researcher | Reinforcement Learning & LLM Specialist
 
-🔍 My research focuses on using advanced **Deep Learning** and **RL** techniques to develop intelligent trading systems.  
-📈 I’m fascinated by the intersection of **Finance** and **AI**, and I'm working to contribute to the next generation of trading strategies.  
-🤝 Let's connect and explore the exciting realms of AI-driven finance together!
+I am an AI Engineer and Researcher with a PhD background at [Politecnico di Milano](https://www.polimi.it/), specializing in **Deep Reinforcement Learning**, **Large Language Models (LLMs)**, **Generative AI**, and **Intelligent Decision Systems**.
 
----
+Currently, I am a visiting researcher at :contentReference[oaicite:0]{index=0} working on **adaptive state representation learning for deep reinforcement learning in algorithmic energy market trading** under the supervision of :contentReference[oaicite:1]{index=1}.
 
-### 🧠 Tech Stack & Skills
-
-- 💻 **Languages**: Python (main), R, MATLAB  
-- 🧠 **AI/ML**: TensorFlow, PyTorch, Keras  
-- 🔁 **Reinforcement Learning**: DQN, PPO, A3C, custom agents  
-- 📊 **Finance Tools**: pandas, NumPy, TA-Lib, backtrader  
-- ⚙️ **Others**: Git, Jupyter, Scikit-learn, Docker, LaTeX  
+I am passionate about building real-world AI systems that combine:
+- 🧠 Artificial Intelligence & Machine Learning
+- 🔁 Reinforcement Learning & Sequential Decision Systems
+- 🤖 LLMs, RAG, and Agentic AI
+- 📊 Time-Series Forecasting & Energy Analytics
+- ☁️ Cloud-Native AI Architectures
+- ⚡ Production-Ready AI Applications
 
 ---
 
-### 🌟 Featured Projects
+## 💡 What I Do
 
+Over the years, I have worked across:
+- AI research
+- industrial AI systems
+- startup environments
+- full-stack AI product development
 
-<!-- > - 🔗 [RL-Trading-Agent](https://github.com/your-username/RL-Trading-Agent) – A reinforcement learning agent for crypto trading  
-> - 🔗 [FinAI-Lab](https://github.com/your-username/FinAI-Lab) – Research framework for financial deep learning models -->
+I enjoy transforming complex AI ideas into scalable and production-ready solutions.
+
+### 🔹 AI & Energy Systems
+At :contentReference[oaicite:2]{index=2}, I worked as an AI Engineer and Researcher on:
+- Load forecasting systems
+- Imbalance price prediction
+- Energy market analytics
+- Real-time AI decision systems
+- Forecasting pipelines for electricity markets
+
+### 🔹 Founder & AI Product Builder
+I independently designed and developed **DaricFi**, an AI-driven trading and analytics platform, where I built:
+- AI-powered trading assistants
+- LLM-based financial chatbots
+- Reinforcement learning trading systems
+- Backend APIs & cloud deployment
+- Full-stack architecture
+- Intelligent financial analytics tools
+
+This experience strengthened my expertise in:
+- AI engineering
+- software architecture
+- product-oriented AI systems
+- MLOps & deployment
+- scalable AI applications
+
+### 🔹 Research & Advanced AI
+My research focuses on:
+- Deep Reinforcement Learning
+- Adaptive state representation learning
+- Synthetic data generation with GANs
+- AI for stochastic environments
+- Agentic AI systems
+- Sequential decision making
 
 ---
 
-### 📫 Let's Connect!
+# 🧠 Technical Skills
 
-<!-- Replace `your-link` with actual links -->
+## 💻 Programming & Development
+- Python (Expert)
+- SQL
+- TypeScript
+- R
+- MATLAB
+
+## 🤖 AI / Machine Learning
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Keras
+- Hugging Face
+- LangChain
+- LangGraph
+- LLM Engineering
+- RAG Pipelines
+- Agentic AI Systems
+
+## 🔁 Reinforcement Learning
+- PPO
+- DQN
+- A3C
+- Custom RL Agents
+- Multi-Agent Systems
+- Adaptive RL Architectures
+
+## ☁️ Cloud & MLOps
+- AWS
+- Docker
+- CI/CD
+- MLflow
+- API Development
+- FastAPI
+- Cloud Deployment
+- Production AI Systems
+
+## 📊 Data & Forecasting
+- Time-Series Forecasting
+- Feature Engineering
+- Data Pipelines
+- Anomaly Detection
+- Predictive Analytics
+- Optimization Systems
+
+## 🌊 Scientific & Environmental Data
+I have also worked on marine and environmental AI projects, including:
+- Collecting oceanographic data using NASA APIs
+- Processing heterogeneous environmental datasets
+- Predicting monk seal presence probability near Italian beaches using ML models
+- Building scientific data analysis pipelines
+
+---
+
+# 🌟 Selected Areas of Interest
+
+- Artificial Intelligence
+- Reinforcement Learning
+- Generative AI & LLMs
+- Agentic Systems
+- Financial AI
+- Energy Markets
+- Forecasting Systems
+- AI Infrastructure
+- Intelligent Automation
+- Digital Twins
+- Data Platforms & MLOps
+
+---
+
+# 📫 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alihosseini8887/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-green?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Seyed-Ali-Hosseini-23)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seyedali1.hosseini@polimi.it)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seyed.ali.hosseini@email.uni-kiel.de)
 
 ---
 
-### 🧠 Fun Fact
+# ⚡ Fun Fact
 
-> “Finance is not just numbers—it's a playground for intelligence.”  
-> When I’m not training RL agents, you’ll probably find me exploring a new dataset, optimizing a loss function, or sipping espresso while reading AI papers ☕📚
+> “The most exciting part of AI is not only building models — it’s building intelligent systems that continuously learn, adapt, and create real-world impact.”
 
----
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p> -->
+When I’m not training models or designing AI systems, I’m usually:
+- exploring new datasets 📊
+- testing new LLM workflows 🤖
+- reading AI papers ☕
+- or building the next AI-powered product 🚀
 
 ---
-

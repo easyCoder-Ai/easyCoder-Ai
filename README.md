@@ -7,7 +7,7 @@
   />
 </p>
 
-# 👋 Hi, I'm Seyed Ali Hosseini
+# 👋 Hi, I'm Ali
 
 ### 🚀 AI Engineer | Researcher | Reinforcement Learning & LLM Specialist
 

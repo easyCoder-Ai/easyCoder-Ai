@@ -11,9 +11,9 @@
 
 ### 🚀 AI Engineer | Researcher | Reinforcement Learning & LLM Specialist
 
-I am an AI Engineer and Researcher with a PhD background at [Politecnico di Milano](https://www.polimi.it/), specializing in **Deep Reinforcement Learning**, **Large Language Models (LLMs)**, **Generative AI**, and **Intelligent Decision Systems**.
+I am an AI Engineer and Researcher with a PhD background at [Politecnico di Milano](https://www.polimi.it/), specializing in **Deep Reinforcement Learning**, **Large Language Models (LLMs)**, **Generative AI**, and **Intelligent Decision Systems** under the supervision of [Prof.Grimaccia](https://www.energia.polimi.it/persone/grimaccia-francesco/).
 
-Currently, I am a visiting researcher at :contentReference[oaicite:0]{index=0} working on **adaptive state representation learning for deep reinforcement learning in algorithmic energy market trading** under the supervision of :contentReference[oaicite:1]{index=1}.
+Currently, I am a visiting researcher at [Intelligent Systems at CAU](https://www.uni-kiel.de/de/tf/forschen/institut-informatik/intelligente-systeme) working on **adaptive state representation learning for deep reinforcement learning in algorithmic energy market trading** under the supervision of [Prof.Tomforde](https://www.uni-kiel.de/de/person/tomforde-sven-6143).
 
 I am passionate about building real-world AI systems that combine:
 - 🧠 Artificial Intelligence & Machine Learning
@@ -36,7 +36,7 @@ Over the years, I have worked across:
 I enjoy transforming complex AI ideas into scalable and production-ready solutions.
 
 ### 🔹 AI & Energy Systems
-At :contentReference[oaicite:2]{index=2}, I worked as an AI Engineer and Researcher on:
+At [A2A](https://www.gruppoa2a.it/en/home), I worked as an AI Engineer and Researcher on:
 - Load forecasting systems
 - Imbalance price prediction
 - Energy market analytics
@@ -94,7 +94,7 @@ My research focuses on:
 ## 🔁 Reinforcement Learning
 - PPO
 - DQN
-- A3C
+- A3C, A2C, and SAC
 - Custom RL Agents
 - Multi-Agent Systems
 - Adaptive RL Architectures
@@ -152,7 +152,7 @@ I have also worked on marine and environmental AI projects, including:
 
 # ⚡ Fun Fact
 
-> “The most exciting part of AI is not only building models — it’s building intelligent systems that continuously learn, adapt, and create real-world impact.”
+> “The most exciting part of AI is not only building models, it’s building intelligent systems that continuously learn, adapt, and create real-world impact.”
 
 When I’m not training models or designing AI systems, I’m usually:
 - exploring new datasets 📊

@@ -74,10 +74,19 @@ My research focuses on:
 
 ## 💻 Programming & Development
 - Python (Expert)
+- Rust
+- Java
+- JS
 - SQL
 - TypeScript
 - R
 - MATLAB
+
+## 🗄️ DB
+
+- PostSQL
+- SQL
+- MongoDB
 
 ## 🤖 AI / Machine Learning
 - PyTorch
